@@ -23,8 +23,10 @@ Projeto desenvolvido para calcular o saldo de partidas rankeadas de um jogador, 
 ## Como usar
 
 1. Clone este repositório:
+   
+https://github.com/wandersonxc/calculadora-partidas-rankeadas.git
 
-2. execute: 
+3. execute: 
 node src/index.js
 
 ## Tecnologias usadas
